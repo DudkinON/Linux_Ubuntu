@@ -1,6 +1,6 @@
 # Server info
 
-IP address: 54.218.48.126
+IP address: 34.211.103.224
 
 URL: [www.carcat.gq](http://www.carcat.gq/)
 
